@@ -18,4 +18,5 @@ Code::Blocksの初期設定（最初に１回だけ行う設定）のみを記�
 	Make program → make.exe
 	```
 ・[Java Runtime Environment](https://www.java.com/ja/download/)を忘れずにインストールする。
+
 ・[Stephane-D氏のページ](https://github.com/Stephane-D/SGDK/wiki/Setup-SGDK-with-CodeBlocks)を参照（情報古く変更箇所あり）。
