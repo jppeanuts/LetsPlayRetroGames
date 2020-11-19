@@ -1,5 +1,6 @@
 ## 前準備
 1. プロジェクトの作成
+
 	```
 	・「File → New → Project… → Empty Project」を選択し「Go」ボタンを押す。
 	・１番目の画面「Next >」を押す。
@@ -16,13 +17,17 @@
 			Objects output dir → out¥
 			「Finish」を押す。
 	```
+	
 1. カスタ厶Makefileの指定
+
 	```
 	・画面左側「HelloWorld」プロジェクトを右クリックし、「Properties…」を選択する。
 		Makefile → C:¥sgdk151¥makefile.gen
 		「This is a custom Makefile」チェックを付ける
 	```
+	
 1. 「main.c」の作成
+
 	```
 	・「File → New → File… → C/C++ source」を選択し「Go」ボタンを押す。
 	・１番目の画面「Next >」を押す。
