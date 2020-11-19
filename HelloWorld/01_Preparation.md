@@ -15,7 +15,7 @@
 		「”Release” options」
 			Output dir → out¥
 			Objects output dir → out¥
-			「Finish」を押す。
+		「Finish」を押す。
 	```
 	
 1. カスタ厶Makefileの指定
