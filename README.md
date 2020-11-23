@@ -6,5 +6,6 @@
 - メガドラ開発体験記（６）→ 「MegaDriveDev_06」 フォルダ
 - メガドラ開発体験記（７）→ 「MegaDriveDev_07」 フォルダ
 - Hello, MegaDrive World!（１）～（５）→ 「HelloWorld」 フォルダ
+- 画像を表示してみる → 「YsTitle」 フォルダ
 
 に対応しています。
