@@ -1,6 +1,7 @@
 # LetsPlayRetroGames
 
-ブログ「レトロゲームで遊ぼう！」との連動リポジトリです。
+ブログ「[レトロゲームで遊ぼう！](https://readerstour.travel.blog/)」との連動リポジトリです。
+
 
 - メガドラ開発体験記（５）→ 「MegaDriveDev_05」 フォルダ
 - メガドラ開発体験記（６）→ 「MegaDriveDev_06」 フォルダ
