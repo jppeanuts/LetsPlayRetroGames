@@ -10,8 +10,8 @@
 		「Next >」を押す。
 	・３番目の画面
 		Compiler → Sega Genesis Compiler
-		「Create “Debug” configuration」チェックを付ける
-		「Create “Release” configuration」チェックを外す
+		「Create “Debug” configuration」チェックを外す
+		「Create “Release” configuration」チェックを付ける
 		「”Release” options」
 			Output dir → out¥
 			Objects output dir → out¥
